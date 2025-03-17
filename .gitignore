@@ -1,0 +1,6 @@
+.env
+systemPrompt.txt
+userPrompt.txt
+__pycache__/
+.streamlit
+prompts.txt
